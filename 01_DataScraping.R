@@ -1,3 +1,13 @@
+# HEADER --------------------------------------------
+# Author: Rodrigo Esteves de Lima-Lopes
+# Copyright (c) The author
+# Email: rll307@unicamp.br
+# Wed May 4 11:21:42 2022
+# Script Name: 01_DataScraping.R
+# Project: JusticaMoise
+# Description: Analysis of collocates
+# Notes:
+
 library(academictwitteR)
 
 tweets <-

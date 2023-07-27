@@ -326,7 +326,7 @@ F1 <- Imigrante_M %>%
     fill = "Verosimilhança (log)"
   )
 ```
-
+![Collocates ploting]()
 
 An R script is avalilable [here](02_collocates.R)
 

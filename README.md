@@ -18,7 +18,7 @@ In this repository, you will find scripts for:
 
 ## Disclaimer
 
-Tweeter has recently closed its API for academic research. This study is, therefore, cannot be replicated. We hope it changes in the future. 
+Tweeter has recently closed its API for academic research. This study, therefore, cannot be replicated. We hope it changes in the future. 
 
 ## Methodological notes
 

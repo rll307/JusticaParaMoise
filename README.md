@@ -14,7 +14,7 @@ In this repository, you will find scripts for:
 
 1.  Data scraping - [here](01_DataScraping.md)
 2.  Calculation of collocates - [here](02_collocates.md)
-3.  Calculation of collocates networks - [here](03_network.R)
+3.  Calculation of collocates networks - [here](03_network.md)
 
 ## Disclaimer
 

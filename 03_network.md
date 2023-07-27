@@ -86,3 +86,10 @@ textplot_network(tweets.moise.fcm.top, min_freq = 15, edge_color = "#979A9A", ed
 ```
 
 ![Lexical Network](images/rede.png)
+
+An R script for this tutorial is available [here](03_network.R)
+
+
+
+
+

@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This tutorial provides information regarding data scraping.
+This tutorial provides information regarding data scrapin for the article:
+
+**Representations of Violence against a Black Migrant on Twitter** By [Rodrigo Esteves de Lima Lopes](mailto:rll307@unicamp.br) (CNPq/UNICAMP) and [ Vivian Gomes Monteiro Souza](mailto:viviangomesms@gmail.com) (CNPq/UNICAMP).
+
+The article is currently under review by the journal. Once it is published, we will update this page.
 
 ## What do we need?
 

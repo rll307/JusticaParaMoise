@@ -29,7 +29,7 @@ Importing the data
 tweets.moise <- tweets
 ```
 
-# Extracting textual data only
+Extracting textual data only
 
 ```         
 tweets.moise <- tweets.moise$text
@@ -52,7 +52,7 @@ tweets.moise.df <- tweets.moise.df %>%
   distinct()
 ```
 
-# Sum of tokes and types
+ Sum of tokes and types
 
 ```         
 n.tokens.moise <- ntoken(tweets.moise.tokens)
